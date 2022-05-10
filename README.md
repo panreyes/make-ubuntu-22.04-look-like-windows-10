@@ -19,4 +19,13 @@ After running this script twice:
 These few details help common users a lot to migrate from Windows 10 to Ubuntu 22.04.
 
 # Thanks to
-  TODO
+These GNOME extensions developers:
+  - Dash to panel: https://github.com/home-sweet-gnome/dash-to-panel
+  - Remove Alt+Tab delay v2: https://github.com/bdaase/remove-alt-tab-delay
+  - Start overlay in application view: https://github.com/Hexcz/Start-Overlay-in-Application-View-for-Gnome-40-
+
+And borrowed some ideas from here:
+  - gnome-layout-manager: https://github.com/vmavromatis/gnome-layout-manager
+
+And everyone related to the amazing GNOME desktop software. 
+For me, it is the best desktop out there! 🙌🏼
